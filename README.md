@@ -37,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/bishwa2005/placements/tree/master/0146-lru-cache) |
+## Array
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/bishwa2005/placements/tree/master/0056-merge-intervals) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/bishwa2005/placements/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
