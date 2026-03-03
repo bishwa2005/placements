@@ -25,7 +25,7 @@ public:
         head = new Node(-1, -1);
         tail = new Node(-1, -1);
 
-        head->next = tail; 
+        head->next = tail;
         tail->prev = head;
     }
 
