@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/bishwa2005/placements/tree/master/0056-merge-intervals) |
 | [0200-number-of-islands](https://github.com/bishwa2005/placements/tree/master/0200-number-of-islands) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/bishwa2005/placements/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -57,4 +58,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/bishwa2005/placements/tree/master/0200-number-of-islands) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/bishwa2005/placements/tree/master/1582-special-positions-in-a-binary-matrix) |
 <!---LeetCode Topics End-->
