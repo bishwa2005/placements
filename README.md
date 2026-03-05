@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/bishwa2005/placements/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/bishwa2005/placements/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/bishwa2005/placements/tree/master/0383-ransom-note) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/bishwa2005/placements/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 ## Counting
 |  |
 | ------- |
