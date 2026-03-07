@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/bishwa2005/placements/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/bishwa2005/placements/tree/master/0785-is-graph-bipartite) |
 | [0997-find-the-town-judge](https://github.com/bishwa2005/placements/tree/master/0997-find-the-town-judge) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/bishwa2005/placements/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1971-find-if-path-exists-in-graph](https://github.com/bishwa2005/placements/tree/master/1971-find-if-path-exists-in-graph) |
 ## Hash Table
 |  |
