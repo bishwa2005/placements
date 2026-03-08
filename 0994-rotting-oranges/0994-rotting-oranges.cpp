@@ -16,21 +16,23 @@ public:
             }
         }
 
-        int time=-1;
+        int time=0;
         int drow[]={-1,0,1,0};
         int dcol[]={0,-1,0,1};
 
         while(q.size()){
-            auto [x,y,d] = q.front();
+            int x = q.front().first.first;
+            int y = q.front().first.second;
+            int d = q.front().second;
             q.pop();
-            ti
+            time=max(time,d);
             for(int i=0;i<4;i++){
                 int nx=x+drow[i];
                 int ny=y+dcol[i];
                 
                 if(nx>=0 && ny>=0 && nx<n && ny<m && vis[nx][ny]!=2 && grid[nx][ny]==1){
                     vis[nx][ny]=2;
-                    q.push{{nx,ny},d+1};
+                    q.push({{nx,ny},d+1});
 
                 }
             }    
@@ -43,7 +45,7 @@ public:
             }
         }
 
-        return tm;
+        return time;
 
     }
 };
