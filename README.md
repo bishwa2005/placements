@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/bishwa2005/placements/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/bishwa2005/placements/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/bishwa2005/placements/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1162-as-far-from-land-as-possible](https://github.com/bishwa2005/placements/tree/master/1162-as-far-from-land-as-possible) |
 | [1971-find-if-path-exists-in-graph](https://github.com/bishwa2005/placements/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/bishwa2005/placements/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/bishwa2005/placements/tree/master/0997-find-the-town-judge) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/bishwa2005/placements/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1162-as-far-from-land-as-possible](https://github.com/bishwa2005/placements/tree/master/1162-as-far-from-land-as-possible) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/bishwa2005/placements/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1980-find-unique-binary-string](https://github.com/bishwa2005/placements/tree/master/1980-find-unique-binary-string) |
 ## Sorting
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/bishwa2005/placements/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/bishwa2005/placements/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/bishwa2005/placements/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1162-as-far-from-land-as-possible](https://github.com/bishwa2005/placements/tree/master/1162-as-far-from-land-as-possible) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/bishwa2005/placements/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## String
 |  |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/bishwa2005/placements/tree/master/0542-01-matrix) |
+| [1162-as-far-from-land-as-possible](https://github.com/bishwa2005/placements/tree/master/1162-as-far-from-land-as-possible) |
 ## Topological Sort
 |  |
 | ------- |
