@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/bishwa2005/placements/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/bishwa2005/placements/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/bishwa2005/placements/tree/master/1162-as-far-from-land-as-possible) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/bishwa2005/placements/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/bishwa2005/placements/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/bishwa2005/placements/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/bishwa2005/placements/tree/master/1162-as-far-from-land-as-possible) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/bishwa2005/placements/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/bishwa2005/placements/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1980-find-unique-binary-string](https://github.com/bishwa2005/placements/tree/master/1980-find-unique-binary-string) |
 ## Sorting
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/bishwa2005/placements/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/bishwa2005/placements/tree/master/1162-as-far-from-land-as-possible) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/bishwa2005/placements/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/bishwa2005/placements/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## String
 |  |
 | ------- |
