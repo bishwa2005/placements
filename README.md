@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/bishwa2005/placements/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/bishwa2005/placements/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/bishwa2005/placements/tree/master/0841-keys-and-rooms) |
+| [1020-number-of-enclaves](https://github.com/bishwa2005/placements/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/bishwa2005/placements/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/bishwa2005/placements/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/bishwa2005/placements/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/bishwa2005/placements/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/bishwa2005/placements/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/bishwa2005/placements/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/bishwa2005/placements/tree/master/1162-as-far-from-land-as-possible) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/bishwa2005/placements/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/bishwa2005/placements/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/bishwa2005/placements/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/bishwa2005/placements/tree/master/0785-is-graph-bipartite) |
+| [1020-number-of-enclaves](https://github.com/bishwa2005/placements/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/bishwa2005/placements/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/bishwa2005/placements/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/bishwa2005/placements/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/bishwa2005/placements/tree/master/0997-find-the-town-judge) |
+| [1020-number-of-enclaves](https://github.com/bishwa2005/placements/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/bishwa2005/placements/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/bishwa2005/placements/tree/master/1162-as-far-from-land-as-possible) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/bishwa2005/placements/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -112,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/bishwa2005/placements/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/bishwa2005/placements/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/bishwa2005/placements/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/bishwa2005/placements/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/bishwa2005/placements/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/bishwa2005/placements/tree/master/1162-as-far-from-land-as-possible) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/bishwa2005/placements/tree/master/1582-special-positions-in-a-binary-matrix) |
