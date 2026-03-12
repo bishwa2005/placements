@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/bishwa2005/placements/tree/master/0997-find-the-town-judge) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/bishwa2005/placements/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1971-find-if-path-exists-in-graph](https://github.com/bishwa2005/placements/tree/master/1971-find-if-path-exists-in-graph) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/bishwa2005/placements/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/bishwa2005/placements/tree/master/0383-ransom-note) |
 | [0997-find-the-town-judge](https://github.com/bishwa2005/placements/tree/master/0997-find-the-town-judge) |
 | [1980-find-unique-binary-string](https://github.com/bishwa2005/placements/tree/master/1980-find-unique-binary-string) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/bishwa2005/placements/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Linked List
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/bishwa2005/placements/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/bishwa2005/placements/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1980-find-unique-binary-string](https://github.com/bishwa2005/placements/tree/master/1980-find-unique-binary-string) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/bishwa2005/placements/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Sorting
 |  |
 | ------- |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/bishwa2005/placements/tree/master/0383-ransom-note) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/bishwa2005/placements/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1980-find-unique-binary-string](https://github.com/bishwa2005/placements/tree/master/1980-find-unique-binary-string) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/bishwa2005/placements/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Counting
 |  |
 | ------- |
@@ -155,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/bishwa2005/placements/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/bishwa2005/placements/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/bishwa2005/placements/tree/master/0310-minimum-height-trees) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/bishwa2005/placements/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Backtracking
 |  |
 | ------- |
