@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/bishwa2005/placements/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/bishwa2005/placements/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/bishwa2005/placements/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/bishwa2005/placements/tree/master/0383-ransom-note) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/bishwa2005/placements/tree/master/0022-generate-parentheses) |
 | [0198-house-robber](https://github.com/bishwa2005/placements/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/bishwa2005/placements/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/bishwa2005/placements/tree/master/0542-01-matrix) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/bishwa2005/placements/tree/master/0022-generate-parentheses) |
 | [1980-find-unique-binary-string](https://github.com/bishwa2005/placements/tree/master/1980-find-unique-binary-string) |
 ## Tree
 |  |
