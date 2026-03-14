@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/bishwa2005/placements/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/bishwa2005/placements/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/bishwa2005/placements/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/bishwa2005/placements/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/bishwa2005/placements/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/bishwa2005/placements/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/bishwa2005/placements/tree/master/0886-possible-bipartition) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/bishwa2005/placements/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/bishwa2005/placements/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/bishwa2005/placements/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/bishwa2005/placements/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/bishwa2005/placements/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/bishwa2005/placements/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/bishwa2005/placements/tree/master/0886-possible-bipartition) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/bishwa2005/placements/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/bishwa2005/placements/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/bishwa2005/placements/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/bishwa2005/placements/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/bishwa2005/placements/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/bishwa2005/placements/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/bishwa2005/placements/tree/master/0886-possible-bipartition) |
@@ -212,4 +215,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/bishwa2005/placements/tree/master/0974-subarray-sums-divisible-by-k) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/bishwa2005/placements/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/bishwa2005/placements/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
