@@ -1,9 +1,8 @@
 class Solution {
-public:
+  public:
     typedef pair<int,int> pr;
-
     vector<int> dijkstra(int V, vector<vector<int>> &edges, int src) {
-
+        // Code here
         vector<vector<pair<int,int>>> adj(V);
 
         // convert edge list -> adjacency list
@@ -15,29 +14,29 @@ public:
             adj[u].push_back({v,w});
             adj[v].push_back({u,w});
         }
-
-        priority_queue<pr, vector<pr>, greater<pr>> pq;
-        vector<int> ans(V, INT_MAX);
-
-        ans[src] = 0;
-        pq.push({0, src});
-
-        while(!pq.empty()){
+        
+        priority_queue<pr,vector<pr>,greater<pr>> pq;
+        
+        vector<int> dis(V,1e8);
+        dis[src]=0;
+        
+        pq.push({0,src});
+        
+        while(pq.size()){
             int d = pq.top().first;
             int node = pq.top().second;
             pq.pop();
-
+            
             for(auto it : adj[node]){
-                int n = it.first;
-                int dist = it.second;
-
-                if(ans[n] > d + dist){
-                    ans[n] = d + dist;
-                    pq.push({ans[n], n});
+                int edgewt = it.second;
+                int adjnode = it.first;
+                if(d+edgewt < dis[adjnode]){
+                    dis[adjnode] = edgewt+d;
+                    pq.push({d+edgewt,adjnode});
                 }
             }
         }
-
-        return ans;
+        
+        return dis;
     }
 };
