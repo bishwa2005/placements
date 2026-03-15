@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/bishwa2005/placements/tree/master/0007-reverse-integer) |
+| [0062-unique-paths](https://github.com/bishwa2005/placements/tree/master/0062-unique-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/bishwa2005/placements/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/bishwa2005/placements/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/bishwa2005/placements/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bishwa2005/placements/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/bishwa2005/placements/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/bishwa2005/placements/tree/master/0198-house-robber) |
@@ -244,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/bishwa2005/placements/tree/master/0053-maximum-subarray) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/bishwa2005/placements/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
