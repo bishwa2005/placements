@@ -9,24 +9,26 @@ class Solution {
         
         for(int i=0;i<V-1;i++){
             for(auto it : edges){
-                int u = it[0];
-                int v = it[1];
-                int d = it[2];
+                int u=it[0];
+                int v=it[1];
+                int d=it[2];
                 
-                if(dis[u]!=1e8 && dis[u]+d < dis[v]){
-                    dis[v]=dis[u]+d;
+                if(dis[u]!=1e8 && dis[v]>d+dis[u]){
+                    dis[v]=d+dis[u];
                 }
             }
-        }
-        // checking for negative cycle
-        for(auto it : edges){
-            int u = it[0];
-            int v = it[1];
-            int d = it[2];
             
-            if(dis[u]!=1e8 && dis[u]+d < dis[v]){
-                return {-1};
-            }
+        }
+        
+        // checking negative cycles
+        for(auto it : edges){
+                int u=it[0];
+                int v=it[1];
+                int d=it[2];
+                
+                if(dis[u]!=1e8 && dis[v]>d+dis[u]){
+                    return {-1};
+                }
         }
         
         return dis;
