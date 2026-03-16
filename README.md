@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/bishwa2005/placements/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/bishwa2005/placements/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/bishwa2005/placements/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0802-find-eventual-safe-states](https://github.com/bishwa2005/placements/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/bishwa2005/placements/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bishwa2005/placements/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0886-possible-bipartition](https://github.com/bishwa2005/placements/tree/master/0886-possible-bipartition) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/bishwa2005/placements/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/bishwa2005/placements/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/bishwa2005/placements/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0802-find-eventual-safe-states](https://github.com/bishwa2005/placements/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/bishwa2005/placements/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bishwa2005/placements/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0886-possible-bipartition](https://github.com/bishwa2005/placements/tree/master/0886-possible-bipartition) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/bishwa2005/placements/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/bishwa2005/placements/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/bishwa2005/placements/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0802-find-eventual-safe-states](https://github.com/bishwa2005/placements/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/bishwa2005/placements/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/bishwa2005/placements/tree/master/0886-possible-bipartition) |
 | [0997-find-the-town-judge](https://github.com/bishwa2005/placements/tree/master/0997-find-the-town-judge) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/bishwa2005/placements/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/bishwa2005/placements/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/bishwa2005/placements/tree/master/0310-minimum-height-trees) |
+| [0802-find-eventual-safe-states](https://github.com/bishwa2005/placements/tree/master/0802-find-eventual-safe-states) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/bishwa2005/placements/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Backtracking
 |  |
