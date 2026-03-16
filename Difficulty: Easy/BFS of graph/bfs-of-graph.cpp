@@ -2,27 +2,30 @@ class Solution {
   public:
     vector<int> bfs(vector<vector<int>> &adj) {
         // code here
-        int n=adj.size();
-        queue<int> q;
-        vector<int> vis(n,0);
+        int v=adj.size();
+        vector<int> vis(v,0);
+        vector<int> ans;
         
-        q.push(0);
-        vis[0]=1;
-        
-        vector<int> bfs;
-        while(q.size()){
-            int node=q.front();
-            q.pop();
-            bfs.push_back(node);
-            for(auto ad : adj[node]){
-                if(!vis[ad]){
-                    vis[ad]=1;
-                    q.push(ad);
+        for(int i=0;i<v;i++){
+            if(!vis[i]){
+                queue<int> q;
+                q.push(i);
+                vis[i]=1;
+                while(q.size()){
+                    int node=q.front();
+                    q.pop();
+                    ans.push_back(node);
+                    for(auto it : adj[node]){
+                        if(!vis[it]){
+                            vis[it]=1;
+                            q.push(it);
+                        }
+                        
+                    }
                 }
             }
         }
         
-        return bfs;
-        
+        return ans;
     }
 };
