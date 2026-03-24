@@ -1,13 +1,12 @@
 class Solution {
 public:
-    int subset(vector<int>& nums,int sum){
+    bool subsum(vector<int>& nums,int sum){
         int n=nums.size();
         vector<vector<bool>> dp(n+1,vector<bool>(sum+1));
 
         for(int i=0;i<=n;i++){
             dp[i][0]=true;
-        }
-
+        } 
         for(int j=1;j<=sum;j++){
             dp[0][j]=false;
         }
@@ -25,14 +24,12 @@ public:
     }
 
     bool canPartition(vector<int>& nums) {
-        int n = nums.size();
         int sum=0;
-        for(int i=0;i<n;i++){
-            sum+=nums[i];
+        for(int i : nums){
+            sum+=i;
+
         }
-
         if(sum%2!=0) return false;
-
-        return subset(nums,sum/2);
+        else return subsum(nums,sum/2);
     }
 };
