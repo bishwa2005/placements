@@ -1,19 +1,13 @@
 class Solution {
 public:
-    vector<vector<int>> merge(vector<vector<int>>& arr) {
-        int n = arr.size();
-        sort(arr.begin(), arr.end()); // ✅ Sort by starting point
-
+    vector<vector<int>> merge(vector<vector<int>>& intervals) {
+        sort(intervals.begin(),intervals.end());
         vector<vector<int>> ans;
-        for (int i = 0; i < n; i++) {
-            // If ans is empty or current interval does not overlap
-            if (ans.empty() || arr[i][0] > ans.back()[1]) {
-                ans.push_back(arr[i]);
+        for(auto it:intervals){
+            if(ans.empty() || ans.back()[1]<it[0]){
+                ans.push_back(it);
             }
-            // Else there is overlap
-            else {
-                ans.back()[1] = max(ans.back()[1], arr[i][1]);
-            }
+            else ans.back()[1]=max(ans.back()[1],it[1]);
         }
         return ans;
     }
