@@ -1,9 +1,8 @@
 class Solution {
 public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        // first calculate indegree
         vector<vector<int>> adj(numCourses);
-        vector<int> indegree(numCourses,0);
+        vector<int> indegree(numCourses);
 
         for(auto it : prerequisites){
             adj[it[1]].push_back(it[0]);
@@ -18,16 +17,15 @@ public:
         vector<int> topo;
 
         while(q.size()){
-            int node=q.front();
+            int node = q.front();
             q.pop();
             topo.push_back(node);
-
-            for(auto it : adj[node]){
+            for(auto it:adj[node]){
                 indegree[it]--;
                 if(indegree[it]==0) q.push(it);
             }
         }
 
-        return topo.size()==numCourses;
+        return (topo.size()==numCourses);
     }
 };
