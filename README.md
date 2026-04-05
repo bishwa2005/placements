@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/bishwa2005/placements/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/bishwa2005/placements/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/bishwa2005/placements/tree/master/0583-delete-operation-for-two-strings) |
+| [0657-robot-return-to-origin](https://github.com/bishwa2005/placements/tree/master/0657-robot-return-to-origin) |
 | [1092-shortest-common-supersequence](https://github.com/bishwa2005/placements/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/bishwa2005/placements/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/bishwa2005/placements/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -334,5 +335,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/bishwa2005/placements/tree/master/0657-robot-return-to-origin) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/bishwa2005/placements/tree/master/2075-decode-the-slanted-ciphertext) |
 <!---LeetCode Topics End-->
