@@ -15,6 +15,6 @@ public:
                 st.pop();
             }
         }
-        return st.empty(); // ✅ must check this
+        return st.empty(); 
     }
 };
