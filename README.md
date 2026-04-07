@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/bishwa2005/placements/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/bishwa2005/placements/tree/master/0155-min-stack) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/bishwa2005/placements/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/bishwa2005/placements/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/bishwa2005/placements/tree/master/0503-next-greater-element-ii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/bishwa2005/placements/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
