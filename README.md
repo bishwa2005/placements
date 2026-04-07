@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/bishwa2005/placements/tree/master/0200-number-of-islands) |
 | [0228-summary-ranges](https://github.com/bishwa2005/placements/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/bishwa2005/placements/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/bishwa2005/placements/tree/master/0274-h-index) |
 | [0312-burst-balloons](https://github.com/bishwa2005/placements/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/bishwa2005/placements/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/bishwa2005/placements/tree/master/0416-partition-equal-subset-sum) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/bishwa2005/placements/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/bishwa2005/placements/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/bishwa2005/placements/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/bishwa2005/placements/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/bishwa2005/placements/tree/master/0455-assign-cookies) |
 ## Matrix
 |  |
@@ -345,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/bishwa2005/placements/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/bishwa2005/placements/tree/master/0874-walking-robot-simulation) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/bishwa2005/placements/tree/master/2075-decode-the-slanted-ciphertext) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/bishwa2005/placements/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
