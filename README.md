@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/bishwa2005/placements/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/bishwa2005/placements/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/bishwa2005/placements/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/bishwa2005/placements/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/bishwa2005/placements/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/bishwa2005/placements/tree/master/0055-jump-game) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/bishwa2005/placements/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/bishwa2005/placements/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/bishwa2005/placements/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/bishwa2005/placements/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/bishwa2005/placements/tree/master/0055-jump-game) |
@@ -293,12 +295,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/bishwa2005/placements/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/bishwa2005/placements/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/bishwa2005/placements/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/bishwa2005/placements/tree/master/0503-next-greater-element-ii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/bishwa2005/placements/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/bishwa2005/placements/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/bishwa2005/placements/tree/master/0503-next-greater-element-ii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/bishwa2005/placements/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Prefix Sum
@@ -332,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/bishwa2005/placements/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/bishwa2005/placements/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/bishwa2005/placements/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/bishwa2005/placements/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/bishwa2005/placements/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/bishwa2005/placements/tree/master/0189-rotate-array) |
