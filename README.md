@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/bishwa2005/placements/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/bishwa2005/placements/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/bishwa2005/placements/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/bishwa2005/placements/tree/master/0042-trapping-rain-water) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/bishwa2005/placements/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/bishwa2005/placements/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/bishwa2005/placements/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/bishwa2005/placements/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/bishwa2005/placements/tree/master/0058-length-of-last-word) |
@@ -373,4 +375,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/bishwa2005/placements/tree/master/0380-insert-delete-getrandom-o1) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/bishwa2005/placements/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
