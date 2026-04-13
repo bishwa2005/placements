@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/bishwa2005/placements/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/bishwa2005/placements/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/bishwa2005/placements/tree/master/0383-ransom-note) |
+| [0567-permutation-in-string](https://github.com/bishwa2005/placements/tree/master/0567-permutation-in-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bishwa2005/placements/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0874-walking-robot-simulation](https://github.com/bishwa2005/placements/tree/master/0874-walking-robot-simulation) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/bishwa2005/placements/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/bishwa2005/placements/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/bishwa2005/placements/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/bishwa2005/placements/tree/master/0516-longest-palindromic-subsequence) |
+| [0567-permutation-in-string](https://github.com/bishwa2005/placements/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/bishwa2005/placements/tree/master/0583-delete-operation-for-two-strings) |
 | [0657-robot-return-to-origin](https://github.com/bishwa2005/placements/tree/master/0657-robot-return-to-origin) |
 | [1092-shortest-common-supersequence](https://github.com/bishwa2005/placements/tree/master/1092-shortest-common-supersequence) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/bishwa2005/placements/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/bishwa2005/placements/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/bishwa2005/placements/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/bishwa2005/placements/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
 | ------- |
@@ -386,4 +389,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/bishwa2005/placements/tree/master/0078-subsets) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/bishwa2005/placements/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
