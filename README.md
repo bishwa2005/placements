@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/bishwa2005/placements/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/bishwa2005/placements/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/bishwa2005/placements/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/bishwa2005/placements/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/bishwa2005/placements/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/bishwa2005/placements/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bishwa2005/placements/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/bishwa2005/placements/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/bishwa2005/placements/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/bishwa2005/placements/tree/master/0494-target-sum) |
 | [1980-find-unique-binary-string](https://github.com/bishwa2005/placements/tree/master/1980-find-unique-binary-string) |
 ## Tree
@@ -380,4 +382,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/bishwa2005/placements/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/bishwa2005/placements/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
