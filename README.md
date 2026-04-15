@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-number-of-visible-people-in-a-queue](https://github.com/bishwa2005/placements/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1980-find-unique-binary-string](https://github.com/bishwa2005/placements/tree/master/1980-find-unique-binary-string) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/bishwa2005/placements/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bishwa2005/placements/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/bishwa2005/placements/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/bishwa2005/placements/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/bishwa2005/placements/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/bishwa2005/placements/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/bishwa2005/placements/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/bishwa2005/placements/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bishwa2005/placements/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Counting
 |  |
 | ------- |
