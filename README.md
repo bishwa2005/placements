@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/bishwa2005/placements/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/bishwa2005/placements/tree/master/0380-insert-delete-getrandom-o1) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/bishwa2005/placements/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/bishwa2005/placements/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/bishwa2005/placements/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/bishwa2005/placements/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/bishwa2005/placements/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/bishwa2005/placements/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/bishwa2005/placements/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/bishwa2005/placements/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/bishwa2005/placements/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/bishwa2005/placements/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Sorting
 |  |
 | ------- |
