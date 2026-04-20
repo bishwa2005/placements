@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/bishwa2005/placements/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/bishwa2005/placements/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1980-find-unique-binary-string](https://github.com/bishwa2005/placements/tree/master/1980-find-unique-binary-string) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/bishwa2005/placements/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/bishwa2005/placements/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bishwa2005/placements/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/bishwa2005/placements/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/bishwa2005/placements/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bishwa2005/placements/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/bishwa2005/placements/tree/master/0455-assign-cookies) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/bishwa2005/placements/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Database
 |  |
 | ------- |
