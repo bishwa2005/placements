@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/bishwa2005/placements/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/bishwa2005/placements/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/bishwa2005/placements/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/bishwa2005/placements/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/bishwa2005/placements/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/bishwa2005/placements/tree/master/0202-happy-number) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/bishwa2005/placements/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/bishwa2005/placements/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/bishwa2005/placements/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/bishwa2005/placements/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/bishwa2005/placements/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/bishwa2005/placements/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/bishwa2005/placements/tree/master/0056-merge-intervals) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/bishwa2005/placements/tree/master/0048-rotate-image) |
 | [0130-surrounded-regions](https://github.com/bishwa2005/placements/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/bishwa2005/placements/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bishwa2005/placements/tree/master/0417-pacific-atlantic-water-flow) |
