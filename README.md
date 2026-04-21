@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bishwa2005/placements/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/bishwa2005/placements/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/bishwa2005/placements/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/bishwa2005/placements/tree/master/0206-reverse-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -429,4 +430,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/bishwa2005/placements/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/bishwa2005/placements/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/bishwa2005/placements/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
