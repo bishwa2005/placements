@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/bishwa2005/placements/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/bishwa2005/placements/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/bishwa2005/placements/tree/master/0290-word-pattern) |
+| [0345-reverse-vowels-of-a-string](https://github.com/bishwa2005/placements/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/bishwa2005/placements/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/bishwa2005/placements/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/bishwa2005/placements/tree/master/0516-longest-palindromic-subsequence) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/bishwa2005/placements/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/bishwa2005/placements/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/bishwa2005/placements/tree/master/0202-happy-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/bishwa2005/placements/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/bishwa2005/placements/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/bishwa2005/placements/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/bishwa2005/placements/tree/master/0567-permutation-in-string) |
