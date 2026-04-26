@@ -1,56 +1,56 @@
 class Solution {
 public:
-    bool containsCycle(vector<vector<char>>& grid) {
-        
+    bool check(vector<vector<char>> &grid, int i, int j, vector<vector<int>> &vis) {
         int n = grid.size();
         int m = grid[0].size();
 
-        vector<vector<int>> vis(n, vector<int>(m,0));
+        queue<vector<int>> q;
+        q.push({i, j, -1, -1});
+        vis[i][j] = 1;
 
-        int drow[] = {-1,0,1,0};
-        int dcol[] = {0,-1,0,1};
+        int drow[] = {-1, 0, 1, 0};
+        int dcol[] = {0, -1, 0, 1};
 
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
+        while (!q.empty()) {
+            auto node = q.front();
+            q.pop();
 
-                if(!vis[i][j]){
+            int r = node[0];
+            int c = node[1];
+            int pr = node[2];
+            int pc = node[3];
 
-                    queue<vector<int>> q;
-                    q.push({i,j,-1,-1});
-                    vis[i][j] = 1;
+            for (int k = 0; k < 4; k++) {
+                int nx = r + drow[k];
+                int ny = c + dcol[k];
 
-                    while(!q.empty()){
-
-                        auto node = q.front();
-                        q.pop();
-
-                        int x = node[0];
-                        int y = node[1];
-                        int px = node[2];
-                        int py = node[3];
-
-                        for(int k=0;k<4;k++){
-
-                            int nx = x + drow[k];
-                            int ny = y + dcol[k];
-
-                            if(nx>=0 && ny>=0 && nx<n && ny<m &&
-                               grid[nx][ny] == grid[x][y]){
-
-                                if(!vis[nx][ny]){
-                                    vis[nx][ny] = 1;
-                                    q.push({nx,ny,x,y});
-                                }
-                                else if(nx!=px || ny!=py){
-                                    return true;
-                                }
-                            }
-                        }
+                if (nx >= 0 && nx < n && ny >= 0 && ny < m && grid[nx][ny] == grid[r][c]) {
+                    if (!vis[nx][ny]) {
+                        vis[nx][ny] = 1;
+                        q.push({nx, ny, r, c});
+                    } 
+                    else if (nx != pr || ny != pc) {
+                        return true; // cycle detected
                     }
                 }
             }
         }
+        return false;
+    }
 
+    bool containsCycle(vector<vector<char>>& grid) {
+        int n = grid.size();
+        int m = grid[0].size();
+
+        vector<vector<int>> vis(n, vector<int>(m, 0));
+
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                if (!vis[i][j]) {
+                    if (check(grid, i, j, vis)) return true;
+                }
+            }
+        }
         return false;
     }
 };
