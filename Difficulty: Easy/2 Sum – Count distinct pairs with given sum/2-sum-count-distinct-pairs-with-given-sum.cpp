@@ -3,16 +3,16 @@ class Solution {
     int countDistinctPairs(vector<int> &arr, int target) {
         // Code here
         unordered_set<int> st;
-        set<pair<int,int>> mp;
+        set<pair<int,int>> pr;
         
-        for(int i=0;i<arr.size();i++){
-            int comp = target - arr[i];
-            if(st.count(comp)){
-                mp.insert({min(comp,arr[i]),max(comp,arr[i])});
+        for(int i : arr){
+            int rem = target - i;
+            if(st.count(rem)){
+                pr.insert({min(i,rem),max(i,rem)});
             }
-            st.insert(arr[i]);
+            st.insert(i);
         }
         
-        return mp.size();
+        return pr.size();
     }
 };
