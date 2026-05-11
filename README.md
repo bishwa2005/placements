@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bishwa2005/placements/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/bishwa2005/placements/tree/master/0012-integer-to-roman) |
+| [0073-set-matrix-zeroes](https://github.com/bishwa2005/placements/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/bishwa2005/placements/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/bishwa2005/placements/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/bishwa2005/placements/tree/master/0169-majority-element) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/bishwa2005/placements/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/bishwa2005/placements/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/bishwa2005/placements/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/bishwa2005/placements/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/bishwa2005/placements/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/bishwa2005/placements/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/bishwa2005/placements/tree/master/0088-merge-sorted-array) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/bishwa2005/placements/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/bishwa2005/placements/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/bishwa2005/placements/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/bishwa2005/placements/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/bishwa2005/placements/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bishwa2005/placements/tree/master/0417-pacific-atlantic-water-flow) |
