@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/bishwa2005/placements/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/bishwa2005/placements/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bishwa2005/placements/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/bishwa2005/placements/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/bishwa2005/placements/tree/master/2615-sum-of-distances) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/bishwa2005/placements/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3488-closest-equal-element-queries](https://github.com/bishwa2005/placements/tree/master/3488-closest-equal-element-queries) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/bishwa2005/placements/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/bishwa2005/placements/tree/master/0874-walking-robot-simulation) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/bishwa2005/placements/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2553-separate-the-digits-in-an-array](https://github.com/bishwa2005/placements/tree/master/2553-separate-the-digits-in-an-array) |
 ## Counting Sort
 |  |
 | ------- |
