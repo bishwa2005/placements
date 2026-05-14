@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/bishwa2005/placements/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/bishwa2005/placements/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/bishwa2005/placements/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/bishwa2005/placements/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/bishwa2005/placements/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/bishwa2005/placements/tree/master/0383-ransom-note) |
 | [0567-permutation-in-string](https://github.com/bishwa2005/placements/tree/master/0567-permutation-in-string) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/bishwa2005/placements/tree/master/0274-h-index) |
 | [0312-burst-balloons](https://github.com/bishwa2005/placements/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/bishwa2005/placements/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/bishwa2005/placements/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/bishwa2005/placements/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/bishwa2005/placements/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/bishwa2005/placements/tree/master/0416-partition-equal-subset-sum) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/bishwa2005/placements/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/bishwa2005/placements/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/bishwa2005/placements/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/bishwa2005/placements/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bishwa2005/placements/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/bishwa2005/placements/tree/master/0455-assign-cookies) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/bishwa2005/placements/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/bishwa2005/placements/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/bishwa2005/placements/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/bishwa2005/placements/tree/master/0383-ransom-note) |
 | [2833-furthest-point-from-origin](https://github.com/bishwa2005/placements/tree/master/2833-furthest-point-from-origin) |
 ## Dynamic Programming
@@ -402,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/bishwa2005/placements/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/bishwa2005/placements/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/bishwa2005/placements/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0743-network-delay-time](https://github.com/bishwa2005/placements/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/bishwa2005/placements/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -418,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/bishwa2005/placements/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/bishwa2005/placements/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bishwa2005/placements/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/bishwa2005/placements/tree/master/0347-top-k-frequent-elements) |
 ## Combinatorics
 |  |
 | ------- |
@@ -506,8 +512,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/bishwa2005/placements/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/bishwa2005/placements/tree/master/0347-top-k-frequent-elements) |
 ## String Matching
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/bishwa2005/placements/tree/master/0796-rotate-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/bishwa2005/placements/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
