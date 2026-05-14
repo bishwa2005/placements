@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/bishwa2005/placements/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/bishwa2005/placements/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/bishwa2005/placements/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/bishwa2005/placements/tree/master/0231-power-of-two) |
 | [0380-insert-delete-getrandom-o1](https://github.com/bishwa2005/placements/tree/master/0380-insert-delete-getrandom-o1) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/bishwa2005/placements/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/bishwa2005/placements/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/bishwa2005/placements/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/bishwa2005/placements/tree/master/0231-power-of-two) |
 ## Sliding Window
 |  |
 | ------- |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/bishwa2005/placements/tree/master/0025-reverse-nodes-in-k-group) |
 | [0060-permutation-sequence](https://github.com/bishwa2005/placements/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/bishwa2005/placements/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/bishwa2005/placements/tree/master/0231-power-of-two) |
 ## Quickselect
 |  |
 | ------- |
