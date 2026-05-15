@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/bishwa2005/placements/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/bishwa2005/placements/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/bishwa2005/placements/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/bishwa2005/placements/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/bishwa2005/placements/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/bishwa2005/placements/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/bishwa2005/placements/tree/master/0242-valid-anagram) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bishwa2005/placements/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/bishwa2005/placements/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/bishwa2005/placements/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/bishwa2005/placements/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/bishwa2005/placements/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/bishwa2005/placements/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/bishwa2005/placements/tree/master/0876-middle-of-the-linked-list) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/bishwa2005/placements/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/bishwa2005/placements/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/bishwa2005/placements/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/bishwa2005/placements/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/bishwa2005/placements/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/bishwa2005/placements/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/bishwa2005/placements/tree/master/0345-reverse-vowels-of-a-string) |
