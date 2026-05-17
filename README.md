@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/bishwa2005/placements/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/bishwa2005/placements/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/bishwa2005/placements/tree/master/0238-product-of-array-except-self) |
+| [0260-single-number-iii](https://github.com/bishwa2005/placements/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/bishwa2005/placements/tree/master/0274-h-index) |
 | [0312-burst-balloons](https://github.com/bishwa2005/placements/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/bishwa2005/placements/tree/master/0322-coin-change) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/bishwa2005/placements/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/bishwa2005/placements/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/bishwa2005/placements/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/bishwa2005/placements/tree/master/0260-single-number-iii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/bishwa2005/placements/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Sliding Window
 |  |
