@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/bishwa2005/placements/tree/master/1345-jump-game-iv) |
 | [1980-find-unique-binary-string](https://github.com/bishwa2005/placements/tree/master/1980-find-unique-binary-string) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/bishwa2005/placements/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2540-minimum-common-value](https://github.com/bishwa2005/placements/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/bishwa2005/placements/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/bishwa2005/placements/tree/master/2784-check-if-array-is-good) |
 | [3488-closest-equal-element-queries](https://github.com/bishwa2005/placements/tree/master/3488-closest-equal-element-queries) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/bishwa2005/placements/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/bishwa2005/placements/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bishwa2005/placements/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2540-minimum-common-value](https://github.com/bishwa2005/placements/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/bishwa2005/placements/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/bishwa2005/placements/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/bishwa2005/placements/tree/master/2784-check-if-array-is-good) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/bishwa2005/placements/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/bishwa2005/placements/tree/master/0209-minimum-size-subarray-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/bishwa2005/placements/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2540-minimum-common-value](https://github.com/bishwa2005/placements/tree/master/2540-minimum-common-value) |
 | [3488-closest-equal-element-queries](https://github.com/bishwa2005/placements/tree/master/3488-closest-equal-element-queries) |
 ## Stack
 |  |
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/bishwa2005/placements/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/bishwa2005/placements/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/bishwa2005/placements/tree/master/0876-middle-of-the-linked-list) |
+| [2540-minimum-common-value](https://github.com/bishwa2005/placements/tree/master/2540-minimum-common-value) |
 ## Greedy
 |  |
 | ------- |
