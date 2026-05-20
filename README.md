@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/bishwa2005/placements/tree/master/0094-binary-tree-inorder-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bishwa2005/placements/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/bishwa2005/placements/tree/master/0130-surrounded-regions) |
+| [0199-binary-tree-right-side-view](https://github.com/bishwa2005/placements/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/bishwa2005/placements/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/bishwa2005/placements/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/bishwa2005/placements/tree/master/0210-course-schedule-ii) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/bishwa2005/placements/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bishwa2005/placements/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/bishwa2005/placements/tree/master/0130-surrounded-regions) |
+| [0199-binary-tree-right-side-view](https://github.com/bishwa2005/placements/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/bishwa2005/placements/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/bishwa2005/placements/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/bishwa2005/placements/tree/master/0210-course-schedule-ii) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/bishwa2005/placements/tree/master/0094-binary-tree-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/bishwa2005/placements/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bishwa2005/placements/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0199-binary-tree-right-side-view](https://github.com/bishwa2005/placements/tree/master/0199-binary-tree-right-side-view) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bishwa2005/placements/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/bishwa2005/placements/tree/master/0094-binary-tree-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/bishwa2005/placements/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bishwa2005/placements/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0199-binary-tree-right-side-view](https://github.com/bishwa2005/placements/tree/master/0199-binary-tree-right-side-view) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bishwa2005/placements/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Search
 |  |
