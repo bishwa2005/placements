@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/bishwa2005/placements/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2540-minimum-common-value](https://github.com/bishwa2005/placements/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/bishwa2005/placements/tree/master/2615-sum-of-distances) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/bishwa2005/placements/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/bishwa2005/placements/tree/master/2784-check-if-array-is-good) |
 | [3488-closest-equal-element-queries](https://github.com/bishwa2005/placements/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/bishwa2005/placements/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/bishwa2005/placements/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/bishwa2005/placements/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/bishwa2005/placements/tree/master/2615-sum-of-distances) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/bishwa2005/placements/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/bishwa2005/placements/tree/master/2784-check-if-array-is-good) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/bishwa2005/placements/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3488-closest-equal-element-queries](https://github.com/bishwa2005/placements/tree/master/3488-closest-equal-element-queries) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/bishwa2005/placements/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/bishwa2005/placements/tree/master/0260-single-number-iii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/bishwa2005/placements/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/bishwa2005/placements/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Sliding Window
 |  |
 | ------- |
