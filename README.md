@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/bishwa2005/placements/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/bishwa2005/placements/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/bishwa2005/placements/tree/master/0210-course-schedule-ii) |
+| [0257-binary-tree-paths](https://github.com/bishwa2005/placements/tree/master/0257-binary-tree-paths) |
 | [0310-minimum-height-trees](https://github.com/bishwa2005/placements/tree/master/0310-minimum-height-trees) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bishwa2005/placements/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/bishwa2005/placements/tree/master/0547-number-of-provinces) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/bishwa2005/placements/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/bishwa2005/placements/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/bishwa2005/placements/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/bishwa2005/placements/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/bishwa2005/placements/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/bishwa2005/placements/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/bishwa2005/placements/tree/master/0383-ransom-note) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/bishwa2005/placements/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/bishwa2005/placements/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/bishwa2005/placements/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/bishwa2005/placements/tree/master/0494-target-sum) |
 | [1980-find-unique-binary-string](https://github.com/bishwa2005/placements/tree/master/1980-find-unique-binary-string) |
 ## Tree
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/bishwa2005/placements/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bishwa2005/placements/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/bishwa2005/placements/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/bishwa2005/placements/tree/master/0257-binary-tree-paths) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bishwa2005/placements/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -402,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/bishwa2005/placements/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bishwa2005/placements/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/bishwa2005/placements/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/bishwa2005/placements/tree/master/0257-binary-tree-paths) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bishwa2005/placements/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Search
 |  |
