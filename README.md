@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/bishwa2005/placements/tree/master/0257-binary-tree-paths) |
 | [0310-minimum-height-trees](https://github.com/bishwa2005/placements/tree/master/0310-minimum-height-trees) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bishwa2005/placements/tree/master/0417-pacific-atlantic-water-flow) |
+| [0543-diameter-of-binary-tree](https://github.com/bishwa2005/placements/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/bishwa2005/placements/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/bishwa2005/placements/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/bishwa2005/placements/tree/master/0695-max-area-of-island) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bishwa2005/placements/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/bishwa2005/placements/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/bishwa2005/placements/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/bishwa2005/placements/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/bishwa2005/placements/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bishwa2005/placements/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Tree
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bishwa2005/placements/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/bishwa2005/placements/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/bishwa2005/placements/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/bishwa2005/placements/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/bishwa2005/placements/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bishwa2005/placements/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Search
