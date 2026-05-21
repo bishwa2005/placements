@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bishwa2005/placements/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/bishwa2005/placements/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bishwa2005/placements/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/bishwa2005/placements/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/bishwa2005/placements/tree/master/0199-binary-tree-right-side-view) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/bishwa2005/placements/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/bishwa2005/placements/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bishwa2005/placements/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/bishwa2005/placements/tree/master/0130-surrounded-regions) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bishwa2005/placements/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/bishwa2005/placements/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/bishwa2005/placements/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bishwa2005/placements/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/bishwa2005/placements/tree/master/0199-binary-tree-right-side-view) |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bishwa2005/placements/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/bishwa2005/placements/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/bishwa2005/placements/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bishwa2005/placements/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/bishwa2005/placements/tree/master/0199-binary-tree-right-side-view) |
