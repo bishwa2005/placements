@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/bishwa2005/placements/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bishwa2005/placements/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/bishwa2005/placements/tree/master/2833-furthest-point-from-origin) |
+| [3340-check-balanced-string](https://github.com/bishwa2005/placements/tree/master/3340-check-balanced-string) |
 ## Counting
 |  |
 | ------- |
