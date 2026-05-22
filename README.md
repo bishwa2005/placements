@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/bishwa2005/placements/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bishwa2005/placements/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/bishwa2005/placements/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/bishwa2005/placements/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/bishwa2005/placements/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/bishwa2005/placements/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/bishwa2005/placements/tree/master/0152-maximum-product-subarray) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/bishwa2005/placements/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bishwa2005/placements/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/bishwa2005/placements/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/bishwa2005/placements/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bishwa2005/placements/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/bishwa2005/placements/tree/master/0455-assign-cookies) |
