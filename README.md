@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/bishwa2005/placements/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/bishwa2005/placements/tree/master/0110-balanced-binary-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bishwa2005/placements/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/bishwa2005/placements/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/bishwa2005/placements/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/bishwa2005/placements/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/bishwa2005/placements/tree/master/0200-number-of-islands) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/bishwa2005/placements/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/bishwa2005/placements/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bishwa2005/placements/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/bishwa2005/placements/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/bishwa2005/placements/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/bishwa2005/placements/tree/master/0198-house-robber) |
 | [0312-burst-balloons](https://github.com/bishwa2005/placements/tree/master/0312-burst-balloons) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/bishwa2005/placements/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/bishwa2005/placements/tree/master/0110-balanced-binary-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bishwa2005/placements/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/bishwa2005/placements/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/bishwa2005/placements/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/bishwa2005/placements/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/bishwa2005/placements/tree/master/0543-diameter-of-binary-tree) |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/bishwa2005/placements/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/bishwa2005/placements/tree/master/0110-balanced-binary-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bishwa2005/placements/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/bishwa2005/placements/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/bishwa2005/placements/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/bishwa2005/placements/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/bishwa2005/placements/tree/master/0543-diameter-of-binary-tree) |
