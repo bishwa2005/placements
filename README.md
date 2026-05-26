@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bishwa2005/placements/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/bishwa2005/placements/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/bishwa2005/placements/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/bishwa2005/placements/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/bishwa2005/placements/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/bishwa2005/placements/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/bishwa2005/placements/tree/master/0542-01-matrix) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/bishwa2005/placements/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/bishwa2005/placements/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bishwa2005/placements/tree/master/0417-pacific-atlantic-water-flow) |
+| [0498-diagonal-traverse](https://github.com/bishwa2005/placements/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/bishwa2005/placements/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/bishwa2005/placements/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/bishwa2005/placements/tree/master/0733-flood-fill) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/bishwa2005/placements/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/bishwa2005/placements/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/bishwa2005/placements/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/bishwa2005/placements/tree/master/0874-walking-robot-simulation) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/bishwa2005/placements/tree/master/2075-decode-the-slanted-ciphertext) |
