@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/bishwa2005/placements/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/bishwa2005/placements/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/bishwa2005/placements/tree/master/0202-happy-number) |
+| [0229-majority-element-ii](https://github.com/bishwa2005/placements/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/bishwa2005/placements/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/bishwa2005/placements/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/bishwa2005/placements/tree/master/0347-top-k-frequent-elements) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/bishwa2005/placements/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bishwa2005/placements/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/bishwa2005/placements/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/bishwa2005/placements/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/bishwa2005/placements/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/bishwa2005/placements/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/bishwa2005/placements/tree/master/0274-h-index) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/bishwa2005/placements/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/bishwa2005/placements/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bishwa2005/placements/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/bishwa2005/placements/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/bishwa2005/placements/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/bishwa2005/placements/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/bishwa2005/placements/tree/master/0347-top-k-frequent-elements) |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/bishwa2005/placements/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/bishwa2005/placements/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/bishwa2005/placements/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/bishwa2005/placements/tree/master/0383-ransom-note) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/bishwa2005/placements/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
