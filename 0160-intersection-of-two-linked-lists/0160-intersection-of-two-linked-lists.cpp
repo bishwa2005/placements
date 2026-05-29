@@ -10,26 +10,23 @@ class Solution {
 public:
     int len(ListNode* head){
         int n=0;
-        ListNode* temp = head;
-        while(temp!=NULL){
+        while(head){
             n++;
-            temp=temp->next;
+            head=head->next;
         }
         return n;
     }
-
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-        int len1=len(headA);
-        int len2=len(headB);
+        int l1=len(headA);
+        int l2=len(headB);
 
-        while(len1>len2){
+        while(l1>l2){
             headA=headA->next;
-            len1--;
+            l1--;
         }
-
-        while(len1<len2){
+        while(l2>l1){
             headB=headB->next;
-            len2--;
+            l2--;
         }
 
         while(headA!=headB){
@@ -39,5 +36,6 @@ public:
 
         return headA;
 
+        
     }
 };
