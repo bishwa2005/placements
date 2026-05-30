@@ -427,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/bishwa2005/placements/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/bishwa2005/placements/tree/master/0583-delete-operation-for-two-strings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/bishwa2005/placements/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0894-all-possible-full-binary-trees](https://github.com/bishwa2005/placements/tree/master/0894-all-possible-full-binary-trees) |
 | [1092-shortest-common-supersequence](https://github.com/bishwa2005/placements/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/bishwa2005/placements/tree/master/1143-longest-common-subsequence) |
 | [1162-as-far-from-land-as-possible](https://github.com/bishwa2005/placements/tree/master/1162-as-far-from-land-as-possible) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/bishwa2005/placements/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/bishwa2005/placements/tree/master/0700-search-in-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bishwa2005/placements/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0894-all-possible-full-binary-trees](https://github.com/bishwa2005/placements/tree/master/0894-all-possible-full-binary-trees) |
 | [2236-root-equals-sum-of-children](https://github.com/bishwa2005/placements/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/bishwa2005/placements/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/bishwa2005/placements/tree/master/0700-search-in-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bishwa2005/placements/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0894-all-possible-full-binary-trees](https://github.com/bishwa2005/placements/tree/master/0894-all-possible-full-binary-trees) |
 | [2236-root-equals-sum-of-children](https://github.com/bishwa2005/placements/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Search
 |  |
@@ -663,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/bishwa2005/placements/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/bishwa2005/placements/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/bishwa2005/placements/tree/master/0234-palindrome-linked-list) |
+| [0894-all-possible-full-binary-trees](https://github.com/bishwa2005/placements/tree/master/0894-all-possible-full-binary-trees) |
 ## Quickselect
 |  |
 | ------- |
@@ -687,4 +691,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/bishwa2005/placements/tree/master/0225-implement-stack-using-queues) |
+## Memoization
+|  |
+| ------- |
+| [0894-all-possible-full-binary-trees](https://github.com/bishwa2005/placements/tree/master/0894-all-possible-full-binary-trees) |
 <!---LeetCode Topics End-->
