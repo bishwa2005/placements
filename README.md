@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/bishwa2005/placements/tree/master/1980-find-unique-binary-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/bishwa2005/placements/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/bishwa2005/placements/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2506-count-pairs-of-similar-strings](https://github.com/bishwa2005/placements/tree/master/2506-count-pairs-of-similar-strings) |
 | [2540-minimum-common-value](https://github.com/bishwa2005/placements/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/bishwa2005/placements/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/bishwa2005/placements/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/bishwa2005/placements/tree/master/2126-destroying-asteroids) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/bishwa2005/placements/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/bishwa2005/placements/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2506-count-pairs-of-similar-strings](https://github.com/bishwa2005/placements/tree/master/2506-count-pairs-of-similar-strings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bishwa2005/placements/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/bishwa2005/placements/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/bishwa2005/placements/tree/master/2553-separate-the-digits-in-an-array) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-decode-the-slanted-ciphertext](https://github.com/bishwa2005/placements/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/bishwa2005/placements/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/bishwa2005/placements/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2506-count-pairs-of-similar-strings](https://github.com/bishwa2005/placements/tree/master/2506-count-pairs-of-similar-strings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bishwa2005/placements/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/bishwa2005/placements/tree/master/2833-furthest-point-from-origin) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/bishwa2005/placements/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/bishwa2005/placements/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/bishwa2005/placements/tree/master/0383-ransom-note) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/bishwa2005/placements/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2506-count-pairs-of-similar-strings](https://github.com/bishwa2005/placements/tree/master/2506-count-pairs-of-similar-strings) |
 | [2833-furthest-point-from-origin](https://github.com/bishwa2005/placements/tree/master/2833-furthest-point-from-origin) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/bishwa2005/placements/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
@@ -657,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/bishwa2005/placements/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/bishwa2005/placements/tree/master/0260-single-number-iii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/bishwa2005/placements/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2506-count-pairs-of-similar-strings](https://github.com/bishwa2005/placements/tree/master/2506-count-pairs-of-similar-strings) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/bishwa2005/placements/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Sliding Window
 |  |
