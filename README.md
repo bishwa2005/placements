@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/bishwa2005/placements/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/bishwa2005/placements/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/bishwa2005/placements/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2126-destroying-asteroids](https://github.com/bishwa2005/placements/tree/master/2126-destroying-asteroids) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/bishwa2005/placements/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/bishwa2005/placements/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bishwa2005/placements/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/bishwa2005/placements/tree/master/0455-assign-cookies) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/bishwa2005/placements/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/bishwa2005/placements/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2126-destroying-asteroids](https://github.com/bishwa2005/placements/tree/master/2126-destroying-asteroids) |
 | [2784-check-if-array-is-good](https://github.com/bishwa2005/placements/tree/master/2784-check-if-array-is-good) |
 ## Matrix
 |  |
@@ -610,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/bishwa2005/placements/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/bishwa2005/placements/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/bishwa2005/placements/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/bishwa2005/placements/tree/master/2126-destroying-asteroids) |
 ## Database
 |  |
 | ------- |
