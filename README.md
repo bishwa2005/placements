@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/bishwa2005/placements/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/bishwa2005/placements/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/bishwa2005/placements/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/bishwa2005/placements/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/bishwa2005/placements/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/bishwa2005/placements/tree/master/0771-jewels-and-stones) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bishwa2005/placements/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bishwa2005/placements/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/bishwa2005/placements/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/bishwa2005/placements/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/bishwa2005/placements/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/bishwa2005/placements/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/bishwa2005/placements/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/bishwa2005/placements/tree/master/0518-coin-change-ii) |
@@ -535,12 +537,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/bishwa2005/placements/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/bishwa2005/placements/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/bishwa2005/placements/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/bishwa2005/placements/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bishwa2005/placements/tree/master/0503-next-greater-element-ii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/bishwa2005/placements/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bishwa2005/placements/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/bishwa2005/placements/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bishwa2005/placements/tree/master/0503-next-greater-element-ii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/bishwa2005/placements/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Prefix Sum
