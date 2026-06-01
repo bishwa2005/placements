@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/bishwa2005/placements/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/bishwa2005/placements/tree/master/0225-implement-stack-using-queues) |
 | [0380-insert-delete-getrandom-o1](https://github.com/bishwa2005/placements/tree/master/0380-insert-delete-getrandom-o1) |
+| [0901-online-stock-span](https://github.com/bishwa2005/placements/tree/master/0901-online-stock-span) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/bishwa2005/placements/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/bishwa2005/placements/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bishwa2005/placements/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/bishwa2005/placements/tree/master/0901-online-stock-span) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/bishwa2005/placements/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
 |  |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/bishwa2005/placements/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/bishwa2005/placements/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bishwa2005/placements/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/bishwa2005/placements/tree/master/0901-online-stock-span) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/bishwa2005/placements/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Prefix Sum
 |  |
@@ -716,4 +719,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0894-all-possible-full-binary-trees](https://github.com/bishwa2005/placements/tree/master/0894-all-possible-full-binary-trees) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/bishwa2005/placements/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
