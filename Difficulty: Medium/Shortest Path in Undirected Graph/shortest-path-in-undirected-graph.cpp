@@ -4,34 +4,33 @@ class Solution {
         // code here
         vector<vector<int>> adj(V);
         for(auto it : edges){
-            int u = it[0];
-            int v = it[1];
+            int u=it[0];
+            int v=it[1];
             adj[u].push_back(v);
             adj[v].push_back(u);
         }
         
-        queue<pair<int,int>> q;
+        vector<int> dist(V,-1);
         vector<int> vis(V,0);
+        queue<pair<int,int>> q;
+        
         q.push({src,0});
         vis[src]=1;
-        
-        vector<int> ans(V,-1);
-        ans[src]=0;
         
         while(q.size()){
             int node=q.front().first;
             int d=q.front().second;
             q.pop();
+            dist[node]=d;
             
             for(auto it : adj[node]){
                 if(!vis[it]){
                     vis[it]=1;
                     q.push({it,d+1});
-                    ans[it]=(d+1);
                 }
             }
         }
         
-        return ans;
+        return dist;
     }
 };
