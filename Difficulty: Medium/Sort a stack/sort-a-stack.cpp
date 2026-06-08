@@ -1,22 +1,22 @@
 class Solution {
   public:
-    void solve(stack<int> &st,int ele){
-        if(st.empty() || st.top()<=ele){
-            st.push(ele);
+    void solve(stack<int> &st,int t){
+        if(st.empty() || st.top()<=t){
+            st.push(t);
         }
         else{
-            int t = st.top();
+            int tp=st.top();
             st.pop();
-            solve(st,ele);
-            st.push(t);
+            solve(st,t);
+            st.push(tp);
         }
     }
     void sortStack(stack<int> &st) {
         // code here
         if(st.empty()) return;
-        int ele = st.top();
+        int t = st.top();
         st.pop();
         sortStack(st);
-        solve(st,ele);
+        solve(st,t);
     }
 };
