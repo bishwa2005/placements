@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/bishwa2005/placements/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/bishwa2005/placements/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/bishwa2005/placements/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/bishwa2005/placements/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/bishwa2005/placements/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/bishwa2005/placements/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/bishwa2005/placements/tree/master/0088-merge-sorted-array) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/bishwa2005/placements/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/bishwa2005/placements/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/bishwa2005/placements/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/bishwa2005/placements/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/bishwa2005/placements/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/bishwa2005/placements/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bishwa2005/placements/tree/master/0215-kth-largest-element-in-an-array) |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/bishwa2005/placements/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/bishwa2005/placements/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/bishwa2005/placements/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/bishwa2005/placements/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/bishwa2005/placements/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/bishwa2005/placements/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/bishwa2005/placements/tree/master/0141-linked-list-cycle) |
