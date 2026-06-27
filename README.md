@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/bishwa2005/placements/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/bishwa2005/placements/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/bishwa2005/placements/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/bishwa2005/placements/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/bishwa2005/placements/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/bishwa2005/placements/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/bishwa2005/placements/tree/master/0231-power-of-two) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/bishwa2005/placements/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/bishwa2005/placements/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/bishwa2005/placements/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/bishwa2005/placements/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bishwa2005/placements/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/bishwa2005/placements/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/bishwa2005/placements/tree/master/0152-maximum-product-subarray) |
@@ -760,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/bishwa2005/placements/tree/master/0070-climbing-stairs) |
 | [0894-all-possible-full-binary-trees](https://github.com/bishwa2005/placements/tree/master/0894-all-possible-full-binary-trees) |
 ## Data Stream
 |  |
