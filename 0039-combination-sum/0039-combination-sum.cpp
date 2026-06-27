@@ -1,28 +1,27 @@
 class Solution {
 public:
-    // helper
-    void find_combinations(int idx,vector<int>& candidates,int target,vector<vector<int>>& ans,vector<int>&ds){
+    void solve(int idx,vector<int>& candidates,int target,vector<int>& ds,vector<vector<int>>& ans){
         if(idx==candidates.size()){
-            if(target==0){
+            if(target==0)
                 ans.push_back(ds);
-            }
             return;
         }
 
-        // pick element
         if(candidates[idx]<=target){
             ds.push_back(candidates[idx]);
-            find_combinations(idx,candidates,target-candidates[idx],ans,ds);
+            solve(idx,candidates,target-candidates[idx],ds,ans);
             ds.pop_back();
         }
 
-        find_combinations(idx+1,candidates,target,ans,ds);
-    };
+        solve(idx+1,candidates,target,ds,ans);
+    }
 
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        vector<vector<int>> ans;
         vector<int> ds;
-        find_combinations(0,candidates,target,ans,ds);
+        vector<vector<int>> ans;
+
+        solve(0,candidates,target,ds,ans);
+
         return ans;
     }
 };
