@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/bishwa2005/placements/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/bishwa2005/placements/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bishwa2005/placements/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/bishwa2005/placements/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/bishwa2005/placements/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1905-count-sub-islands](https://github.com/bishwa2005/placements/tree/master/1905-count-sub-islands) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/bishwa2005/placements/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/bishwa2005/placements/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/bishwa2005/placements/tree/master/0630-course-schedule-iii) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/bishwa2005/placements/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/bishwa2005/placements/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/bishwa2005/placements/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/bishwa2005/placements/tree/master/2126-destroying-asteroids) |
 | [2784-check-if-array-is-good](https://github.com/bishwa2005/placements/tree/master/2784-check-if-array-is-good) |
@@ -668,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/bishwa2005/placements/tree/master/0860-lemonade-change) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/bishwa2005/placements/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/bishwa2005/placements/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/bishwa2005/placements/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/bishwa2005/placements/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/bishwa2005/placements/tree/master/2126-destroying-asteroids) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/bishwa2005/placements/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
