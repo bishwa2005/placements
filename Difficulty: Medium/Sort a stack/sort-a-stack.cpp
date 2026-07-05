@@ -3,6 +3,7 @@ class Solution {
     void solve(stack<int> &st,int t){
         if(st.empty() || st.top()<=t){
             st.push(t);
+            return;
         }
         else{
             int tp=st.top();
@@ -14,7 +15,8 @@ class Solution {
     void sortStack(stack<int> &st) {
         // code here
         if(st.empty()) return;
-        int t = st.top();
+        
+        int t=st.top();
         st.pop();
         sortStack(st);
         solve(st,t);
