@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/bishwa2005/placements/tree/master/1162-as-far-from-land-as-possible) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/bishwa2005/placements/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1254-number-of-closed-islands](https://github.com/bishwa2005/placements/tree/master/1254-number-of-closed-islands) |
+| [1288-remove-covered-intervals](https://github.com/bishwa2005/placements/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/bishwa2005/placements/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/bishwa2005/placements/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/bishwa2005/placements/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/bishwa2005/placements/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/bishwa2005/placements/tree/master/0630-course-schedule-iii) |
 | [0881-boats-to-save-people](https://github.com/bishwa2005/placements/tree/master/0881-boats-to-save-people) |
+| [1288-remove-covered-intervals](https://github.com/bishwa2005/placements/tree/master/1288-remove-covered-intervals) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/bishwa2005/placements/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/bishwa2005/placements/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/bishwa2005/placements/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
