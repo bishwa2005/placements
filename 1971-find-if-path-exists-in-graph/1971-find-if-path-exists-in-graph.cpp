@@ -4,26 +4,33 @@ public:
         vector<vector<int>> adj(n);
 
         for(auto it : edges){
-            adj[it[0]].push_back(it[1]);
-            adj[it[1]].push_back(it[0]);
+            int u = it[0];
+            int v = it[1];
+
+            adj[u].push_back(v);
+            adj[v].push_back(u);
         }
 
-        queue<int> que;
-        que.push(source);
+        queue<int> q;
+        q.push(source);
+
         vector<int> vis(n,0);
         vis[source]=1;
 
-        while(que.size()){
-            int node=que.front();
-            que.pop();
+        while(q.size()){
+            int node = q.front();
+            q.pop();
 
-            for(auto i : adj[node]){
-                if(!vis[i])
-                    que.push(i);
-                    vis[i]=1;
+            if(node==destination) return true;
+
+            for(auto it : adj[node]){
+                if(!vis[it]){
+                    vis[it]=1;
+                    q.push(it);
+                }
             }
         }
 
-        return vis[destination];
+        return false;
     }
 };
