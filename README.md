@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/bishwa2005/placements/tree/master/0382-linked-list-random-node) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bishwa2005/placements/tree/master/0628-maximum-product-of-three-numbers) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/bishwa2005/placements/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/bishwa2005/placements/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/bishwa2005/placements/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/bishwa2005/placements/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/bishwa2005/placements/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1905-count-sub-islands](https://github.com/bishwa2005/placements/tree/master/1905-count-sub-islands) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/bishwa2005/placements/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/bishwa2005/placements/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/bishwa2005/placements/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/bishwa2005/placements/tree/master/1980-find-unique-binary-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/bishwa2005/placements/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/bishwa2005/placements/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -795,4 +797,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/bishwa2005/placements/tree/master/0382-linked-list-random-node) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/bishwa2005/placements/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
