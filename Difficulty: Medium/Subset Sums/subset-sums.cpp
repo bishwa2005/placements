@@ -1,20 +1,23 @@
 class Solution {
   public:
-    void solve(int idx,vector<int> &arr,int n,int curr,vector<int> &ans){
-        if(idx==n){
-            ans.push_back(curr);
+    void solve(int idx,vector<int> &arr,vector<int> &ans,int sums){
+        if(idx==arr.size()){
+            ans.push_back(sums);
             return;
         }
-        solve(idx+1,arr,n,curr+arr[idx],ans);
-        solve(idx+1,arr,n,curr,ans);   
+        
+        solve(idx+1,arr,ans,sums+arr[idx]);
+        solve(idx+1,arr,ans,sums);
+        
     }
+  
     vector<int> subsetSums(vector<int>& arr) {
-        // code here
-        int n=arr.size();
-        int idx=0;
+        // code
         vector<int> ans;
-        int curr=0;
-        solve(idx,arr,n,curr,ans);
+        int sums=0;
+        solve(0,arr,ans,sums);
+        sort(ans.begin(),ans.end());
         return ans;
+        
     }
 };
