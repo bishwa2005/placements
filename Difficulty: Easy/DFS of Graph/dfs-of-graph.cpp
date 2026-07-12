@@ -1,23 +1,26 @@
 class Solution {
   public:
-    void solve(int start,vector<vector<int>> &adj,vector<int> &vis,vector<int> &ans){
-        vis[start]=1;
-        ans.push_back(start);
-        for(auto it : adj[start]){
+    void solve(int i,vector<vector<int>> &adj,vector<int> &ans,vector<int> &vis){
+        vis[i]=1;
+        ans.push_back(i);
+        for(auto it : adj[i]){
             if(!vis[it]){
-                solve(it,adj,vis,ans);
+                solve(it,adj,ans,vis);
             }
         }
     }
-    
-    
+  
     vector<int> dfs(vector<vector<int>>& adj) {
         // Code here
-        int v=adj.size();
-        vector<int> vis(v,0);
+        int n=adj.size();
         vector<int> ans;
+        vector<int> vis(n,0);
         
-        solve(0,adj,vis,ans);
+        for(int i=0;i<n;i++){
+            if(!vis[i]){
+                solve(i,adj,ans,vis);
+            }
+        }
         
         return ans;
     }
