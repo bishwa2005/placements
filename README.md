@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/bishwa2005/placements/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/bishwa2005/placements/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/bishwa2005/placements/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/bishwa2005/placements/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/bishwa2005/placements/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/bishwa2005/placements/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Depth-First Search
@@ -817,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bishwa2005/placements/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/bishwa2005/placements/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/bishwa2005/placements/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Enumeration
 |  |
 | ------- |
