@@ -1,56 +1,58 @@
 class Solution {
 public:
-    void setZeroes(vector<vector<int>>& matrix) {
-        int m = matrix.size();
-        int n = matrix[0].size();
-        bool firstRowZero = false, firstColZero = false;
-
-        // Check if first row needs to be zeroed
-        for (int j = 0; j < n; ++j) {
-            if (matrix[0][j] == 0) {
-                firstRowZero = true;
+    void setZeroes(vector<vector<int>>& mat) {
+        int m = mat.size();
+        int n = mat[0].size();
+        
+        bool first_row = false;
+        bool first_col = false;
+        
+        // 1. Check if the first row originally contains any zeros
+        for(int j = 0; j < n; j++) {
+            if(mat[0][j] == 0) {
+                first_row = true;
                 break;
             }
         }
-
-        // Check if first column needs to be zeroed
-        for (int i = 0; i < m; ++i) {
-            if (matrix[i][0] == 0) {
-                firstColZero = true;
+        
+        // 2. Check if the first column originally contains any zeros
+        for(int i = 0; i < m; i++) {
+            if(mat[i][0] == 0) {
+                first_col = true;
                 break;
             }
         }
-
-        // Use first row and column as markers
-        for (int i = 1; i < m; ++i) {
-            for (int j = 1; j < n; ++j) {
-                if (matrix[i][j] == 0) {
-                    matrix[i][0] = 0;
-                    matrix[0][j] = 0;
+        
+        // 3. Use the first row and column to store markers for the rest of the matrix
+        for(int i = 1; i < m; i++) {
+            for(int j = 1; j < n; j++) {
+                if(mat[i][j] == 0) {
+                    mat[i][0] = 0;
+                    mat[0][j] = 0;
                 }
             }
         }
-
-        // Set zeroes based on markers
-        for (int i = 1; i < m; ++i) {
-            for (int j = 1; j < n; ++j) {
-                if (matrix[i][0] == 0 || matrix[0][j] == 0) {
-                    matrix[i][j] = 0;
+        
+        // 4. Zero out cells based on the markers stored in the first row and column
+        for(int i = 1; i < m; i++) {
+            for(int j = 1; j < n; j++) {
+                if(mat[i][0] == 0 || mat[0][j] == 0) {
+                    mat[i][j] = 0;
                 }
             }
         }
-
-        // Zero the first row if needed
-        if (firstRowZero) {
-            for (int j = 0; j < n; ++j) {
-                matrix[0][j] = 0;
+        
+        // 5. Finally, zero out the first row if needed
+        if(first_row) {
+            for(int j = 0; j < n; j++) {
+                mat[0][j] = 0;
             }
         }
-
-        // Zero the first column if needed
-        if (firstColZero) {
-            for (int i = 0; i < m; ++i) {
-                matrix[i][0] = 0;
+        
+        // 6. Finally, zero out the first column if needed
+        if(first_col) {
+            for(int i = 0; i < m; i++) {
+                mat[i][0] = 0;
             }
         }
     }
