@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/bishwa2005/placements/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0997-find-the-town-judge](https://github.com/bishwa2005/placements/tree/master/0997-find-the-town-judge) |
 | [1345-jump-game-iv](https://github.com/bishwa2005/placements/tree/master/1345-jump-game-iv) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/bishwa2005/placements/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1980-find-unique-binary-string](https://github.com/bishwa2005/placements/tree/master/1980-find-unique-binary-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/bishwa2005/placements/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/bishwa2005/placements/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/bishwa2005/placements/tree/master/1514-path-with-maximum-probability) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/bishwa2005/placements/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/bishwa2005/placements/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/bishwa2005/placements/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/bishwa2005/placements/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bishwa2005/placements/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/bishwa2005/placements/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/bishwa2005/placements/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/bishwa2005/placements/tree/master/0905-sort-array-by-parity) |
 | [1288-remove-covered-intervals](https://github.com/bishwa2005/placements/tree/master/1288-remove-covered-intervals) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/bishwa2005/placements/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/bishwa2005/placements/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/bishwa2005/placements/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/bishwa2005/placements/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
