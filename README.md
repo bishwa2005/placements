@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/bishwa2005/placements/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/bishwa2005/placements/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/bishwa2005/placements/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/bishwa2005/placements/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/bishwa2005/placements/tree/master/0380-insert-delete-getrandom-o1) |
 | [0382-linked-list-random-node](https://github.com/bishwa2005/placements/tree/master/0382-linked-list-random-node) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bishwa2005/placements/tree/master/0628-maximum-product-of-three-numbers) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/bishwa2005/placements/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/bishwa2005/placements/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/bishwa2005/placements/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/bishwa2005/placements/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/bishwa2005/placements/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/bishwa2005/placements/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/bishwa2005/placements/tree/master/0349-intersection-of-two-arrays) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/bishwa2005/placements/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/bishwa2005/placements/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/bishwa2005/placements/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/bishwa2005/placements/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/bishwa2005/placements/tree/master/0274-h-index) |
 | [0312-burst-balloons](https://github.com/bishwa2005/placements/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/bishwa2005/placements/tree/master/0322-coin-change) |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/bishwa2005/placements/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/bishwa2005/placements/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/bishwa2005/placements/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/bishwa2005/placements/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/bishwa2005/placements/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/bishwa2005/placements/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/bishwa2005/placements/tree/master/0349-intersection-of-two-arrays) |
@@ -590,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/bishwa2005/placements/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/bishwa2005/placements/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/bishwa2005/placements/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/bishwa2005/placements/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/bishwa2005/placements/tree/master/0349-intersection-of-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/bishwa2005/placements/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/bishwa2005/placements/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -755,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/bishwa2005/placements/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/bishwa2005/placements/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/bishwa2005/placements/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/bishwa2005/placements/tree/master/0268-missing-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/bishwa2005/placements/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2506-count-pairs-of-similar-strings](https://github.com/bishwa2005/placements/tree/master/2506-count-pairs-of-similar-strings) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/bishwa2005/placements/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
