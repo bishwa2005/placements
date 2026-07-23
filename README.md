@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/bishwa2005/placements/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/bishwa2005/placements/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/bishwa2005/placements/tree/master/0567-permutation-in-string) |
+| [0767-reorganize-string](https://github.com/bishwa2005/placements/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/bishwa2005/placements/tree/master/0771-jewels-and-stones) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bishwa2005/placements/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0874-walking-robot-simulation](https://github.com/bishwa2005/placements/tree/master/0874-walking-robot-simulation) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/bishwa2005/placements/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bishwa2005/placements/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/bishwa2005/placements/tree/master/0630-course-schedule-iii) |
+| [0767-reorganize-string](https://github.com/bishwa2005/placements/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/bishwa2005/placements/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/bishwa2005/placements/tree/master/0905-sort-array-by-parity) |
 | [1288-remove-covered-intervals](https://github.com/bishwa2005/placements/tree/master/1288-remove-covered-intervals) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/bishwa2005/placements/tree/master/0583-delete-operation-for-two-strings) |
 | [0657-robot-return-to-origin](https://github.com/bishwa2005/placements/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/bishwa2005/placements/tree/master/0680-valid-palindrome-ii) |
+| [0767-reorganize-string](https://github.com/bishwa2005/placements/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/bishwa2005/placements/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/bishwa2005/placements/tree/master/0796-rotate-string) |
 | [1092-shortest-common-supersequence](https://github.com/bishwa2005/placements/tree/master/1092-shortest-common-supersequence) |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/bishwa2005/placements/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/bishwa2005/placements/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/bishwa2005/placements/tree/master/0387-first-unique-character-in-a-string) |
+| [0767-reorganize-string](https://github.com/bishwa2005/placements/tree/master/0767-reorganize-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/bishwa2005/placements/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2506-count-pairs-of-similar-strings](https://github.com/bishwa2005/placements/tree/master/2506-count-pairs-of-similar-strings) |
 | [2833-furthest-point-from-origin](https://github.com/bishwa2005/placements/tree/master/2833-furthest-point-from-origin) |
@@ -645,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/bishwa2005/placements/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0630-course-schedule-iii](https://github.com/bishwa2005/placements/tree/master/0630-course-schedule-iii) |
 | [0743-network-delay-time](https://github.com/bishwa2005/placements/tree/master/0743-network-delay-time) |
+| [0767-reorganize-string](https://github.com/bishwa2005/placements/tree/master/0767-reorganize-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/bishwa2005/placements/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1046-last-stone-weight](https://github.com/bishwa2005/placements/tree/master/1046-last-stone-weight) |
 | [1514-path-with-maximum-probability](https://github.com/bishwa2005/placements/tree/master/1514-path-with-maximum-probability) |
@@ -713,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/bishwa2005/placements/tree/master/0455-assign-cookies) |
 | [0630-course-schedule-iii](https://github.com/bishwa2005/placements/tree/master/0630-course-schedule-iii) |
 | [0680-valid-palindrome-ii](https://github.com/bishwa2005/placements/tree/master/0680-valid-palindrome-ii) |
+| [0767-reorganize-string](https://github.com/bishwa2005/placements/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/bishwa2005/placements/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/bishwa2005/placements/tree/master/0881-boats-to-save-people) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/bishwa2005/placements/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
