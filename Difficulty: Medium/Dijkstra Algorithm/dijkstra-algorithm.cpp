@@ -1,42 +1,39 @@
 class Solution {
   public:
-    typedef pair<int,int> pr;
     vector<int> dijkstra(int V, vector<vector<int>> &edges, int src) {
         // Code here
         vector<vector<pair<int,int>>> adj(V);
-
-        // convert edge list -> adjacency list
-        for(auto &e : edges){
-            int u = e[0];
-            int v = e[1];
-            int w = e[2];
-
+        for(auto it : edges){
+            int u=it[0];
+            int v=it[1];
+            int w=it[2];
+            
             adj[u].push_back({v,w});
             adj[v].push_back({u,w});
+            
         }
         
-        priority_queue<pr,vector<pr>,greater<pr>> pq;
-        
-        vector<int> dis(V,1e8);
-        dis[src]=0;
-        
+        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>> pq;
+        vector<int> dist(V,1e8);
         pq.push({0,src});
+        dist[src]=0;
         
         while(pq.size()){
-            int d = pq.top().first;
-            int node = pq.top().second;
+            int n=pq.top().second;
+            int d=pq.top().first;
             pq.pop();
             
-            for(auto it : adj[node]){
+            for(auto it : adj[n]){
                 int edgewt = it.second;
-                int adjnode = it.first;
-                if(d+edgewt < dis[adjnode]){
-                    dis[adjnode] = edgewt+d;
-                    pq.push({d+edgewt,adjnode});
+                int node = it.first;
+                
+                if(dist[node] > d+edgewt){
+                    dist[node]=d+edgewt;
+                    pq.push({dist[node],node});
                 }
             }
         }
         
-        return dis;
+        return dist;
     }
 };
