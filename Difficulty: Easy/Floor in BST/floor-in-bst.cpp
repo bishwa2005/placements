@@ -19,8 +19,7 @@ class Solution {
         int ans=-1;
         
         while(root){
-            if(root->data == k) return k;
-            else if(root->data > k) root=root->left;
+            if(root->data > k) root=root->left;
             else{
                 ans=root->data;
                 root=root->right;
