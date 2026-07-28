@@ -408,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/bishwa2005/placements/tree/master/2126-destroying-asteroids) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/bishwa2005/placements/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2784-check-if-array-is-good](https://github.com/bishwa2005/placements/tree/master/2784-check-if-array-is-good) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/bishwa2005/placements/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/bishwa2005/placements/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/bishwa2005/placements/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Matrix
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/bishwa2005/placements/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/bishwa2005/placements/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3340-check-balanced-string](https://github.com/bishwa2005/placements/tree/master/3340-check-balanced-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/bishwa2005/placements/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/bishwa2005/placements/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/bishwa2005/placements/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Counting
@@ -762,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/bishwa2005/placements/tree/master/0274-h-index) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/bishwa2005/placements/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Randomized
 |  |
 | ------- |
