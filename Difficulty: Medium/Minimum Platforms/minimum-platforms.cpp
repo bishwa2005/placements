@@ -2,30 +2,27 @@ class Solution {
   public:
     int minPlatform(vector<int>& arr, vector<int>& dep) {
         // code here
-        int m=arr.size();
         sort(arr.begin(),arr.end());
-        
-        int n=dep.size();
         sort(dep.begin(),dep.end());
-        
+        int ans=1;
+        int plat=1;
         int i=1;
         int j=0;
-        int final=1;
-        int plat=1;
         
-        while(i<m && j<n){
-            if(arr[i]<=dep[j]){
-                plat++;
+        int n=arr.size();
+        
+        while(i<n && j<n){
+            if(dep[j]>=arr[i]){
                 i++;
+                plat++;
             }
             else{
-                plat--;
                 j++;
+                plat--;
             }
-            
-            final=max(plat,final);
+            ans=max(ans,plat);
         }
         
-        return final;
+        return ans;
     }
 };
