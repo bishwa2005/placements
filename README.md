@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/bishwa2005/placements/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bishwa2005/placements/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/bishwa2005/placements/tree/master/0630-course-schedule-iii) |
+| [0643-maximum-average-subarray-i](https://github.com/bishwa2005/placements/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/bishwa2005/placements/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/bishwa2005/placements/tree/master/0733-flood-fill) |
 | [0860-lemonade-change](https://github.com/bishwa2005/placements/tree/master/0860-lemonade-change) |
@@ -803,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/bishwa2005/placements/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/bishwa2005/placements/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/bishwa2005/placements/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/bishwa2005/placements/tree/master/0643-maximum-average-subarray-i) |
 ## Recursion
 |  |
 | ------- |
