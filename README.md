@@ -491,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/bishwa2005/placements/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/bishwa2005/placements/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3340-check-balanced-string](https://github.com/bishwa2005/placements/tree/master/3340-check-balanced-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/bishwa2005/placements/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/bishwa2005/placements/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/bishwa2005/placements/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/bishwa2005/placements/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -775,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/bishwa2005/placements/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/bishwa2005/placements/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/bishwa2005/placements/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/bishwa2005/placements/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting Sort
 |  |
 | ------- |
