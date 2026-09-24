@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/bishwa2005/placements/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bishwa2005/placements/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/bishwa2005/placements/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/bishwa2005/placements/tree/master/0073-set-matrix-zeroes) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/bishwa2005/placements/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/bishwa2005/placements/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/bishwa2005/placements/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/bishwa2005/placements/tree/master/0016-3sum-closest) |
