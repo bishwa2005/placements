@@ -484,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/bishwa2005/placements/tree/master/0796-rotate-string) |
 | [1092-shortest-common-supersequence](https://github.com/bishwa2005/placements/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/bishwa2005/placements/tree/master/1143-longest-common-subsequence) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bishwa2005/placements/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/bishwa2005/placements/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/bishwa2005/placements/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1980-find-unique-binary-string](https://github.com/bishwa2005/placements/tree/master/1980-find-unique-binary-string) |
@@ -653,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/bishwa2005/placements/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bishwa2005/placements/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/bishwa2005/placements/tree/master/0901-online-stock-span) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bishwa2005/placements/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/bishwa2005/placements/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
 |  |
@@ -886,4 +888,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/bishwa2005/placements/tree/master/0169-majority-element) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bishwa2005/placements/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
