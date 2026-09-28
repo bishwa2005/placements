@@ -463,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/bishwa2005/placements/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/bishwa2005/placements/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/bishwa2005/placements/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/bishwa2005/placements/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/bishwa2005/placements/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/bishwa2005/placements/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/bishwa2005/placements/tree/master/0242-valid-anagram) |
@@ -719,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/bishwa2005/placements/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/bishwa2005/placements/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/bishwa2005/placements/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/bishwa2005/placements/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/bishwa2005/placements/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/bishwa2005/placements/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bishwa2005/placements/tree/master/0160-intersection-of-two-linked-lists) |
