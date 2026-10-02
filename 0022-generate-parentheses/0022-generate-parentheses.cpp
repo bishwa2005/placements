@@ -1,24 +1,34 @@
 class Solution {
 public:
-    vector<string> generateParenthesis(int n) {
-        vector<string> res;
-        dfs(0, 0, "", n, res);
-        return res;        
-    }
-
-private:
-    void dfs(int openP, int closeP, string s, int n, vector<string>& res) {
-        if (openP == closeP && openP + closeP == n * 2) {
-            res.push_back(s);
+    void solve(int open, int close, int n, string &s, vector<string> &ans) {
+        
+        // Length becomes 2*n
+        if (s.length() == 2 * n) {
+            ans.push_back(s);
             return;
         }
 
-        if (openP < n) {
-            dfs(openP + 1, closeP, s + "(", n, res);
+        // We can add '(' if we haven't used all n opening brackets
+        if (open < n) {
+            s += '(';
+            solve(open + 1, close, n, s, ans);
+            s.pop_back();
         }
 
-        if (closeP < openP) {
-            dfs(openP, closeP + 1, s + ")", n, res);
+        // We can add ')' only if there are unmatched '('
+        if (close < open) {
+            s += ')';
+            solve(open, close + 1, n, s, ans);
+            s.pop_back();
         }
+    }
+
+    vector<string> generateParenthesis(int n) {
+        vector<string> ans;
+        string s = "";
+
+        solve(0, 0, n, s, ans);
+
+        return ans;
     }
 };
