@@ -483,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/bishwa2005/placements/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/bishwa2005/placements/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/bishwa2005/placements/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/bishwa2005/placements/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bishwa2005/placements/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1092-shortest-common-supersequence](https://github.com/bishwa2005/placements/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/bishwa2005/placements/tree/master/1143-longest-common-subsequence) |
@@ -655,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/bishwa2005/placements/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/bishwa2005/placements/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bishwa2005/placements/tree/master/0503-next-greater-element-ii) |
+| [0856-score-of-parentheses](https://github.com/bishwa2005/placements/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/bishwa2005/placements/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bishwa2005/placements/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bishwa2005/placements/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -897,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/bishwa2005/placements/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/bishwa2005/placements/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bishwa2005/placements/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bishwa2005/placements/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
