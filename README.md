@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/bishwa2005/placements/tree/master/3488-closest-equal-element-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/bishwa2005/placements/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/bishwa2005/placements/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3693-climbing-stairs-ii](https://github.com/bishwa2005/placements/tree/master/3693-climbing-stairs-ii) |
 | [3731-find-missing-elements](https://github.com/bishwa2005/placements/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/bishwa2005/placements/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/bishwa2005/placements/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/bishwa2005/placements/tree/master/1143-longest-common-subsequence) |
 | [1162-as-far-from-land-as-possible](https://github.com/bishwa2005/placements/tree/master/1162-as-far-from-land-as-possible) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/bishwa2005/placements/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [3693-climbing-stairs-ii](https://github.com/bishwa2005/placements/tree/master/3693-climbing-stairs-ii) |
 ## Topological Sort
 |  |
 | ------- |
