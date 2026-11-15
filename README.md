@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/bishwa2005/placements/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/bishwa2005/placements/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/bishwa2005/placements/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/bishwa2005/placements/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bishwa2005/placements/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/bishwa2005/placements/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/bishwa2005/placements/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/bishwa2005/placements/tree/master/1143-longest-common-subsequence) |
 | [1162-as-far-from-land-as-possible](https://github.com/bishwa2005/placements/tree/master/1162-as-far-from-land-as-possible) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/bishwa2005/placements/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/bishwa2005/placements/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3693-climbing-stairs-ii](https://github.com/bishwa2005/placements/tree/master/3693-climbing-stairs-ii) |
 ## Topological Sort
 |  |
