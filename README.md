@@ -516,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/bishwa2005/placements/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/bishwa2005/placements/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/bishwa2005/placements/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [4102-count-valid-substrings-i](https://github.com/bishwa2005/placements/tree/master/4102-count-valid-substrings-i) |
 ## Counting
 |  |
 | ------- |
@@ -904,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/bishwa2005/placements/tree/master/1291-sequential-digits) |
+| [4102-count-valid-substrings-i](https://github.com/bishwa2005/placements/tree/master/4102-count-valid-substrings-i) |
 ## Game Theory
 |  |
 | ------- |
