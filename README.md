@@ -397,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/bishwa2005/placements/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/bishwa2005/placements/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/bishwa2005/placements/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [4103-remove-elements-by-type-and-color](https://github.com/bishwa2005/placements/tree/master/4103-remove-elements-by-type-and-color) |
 ## Sorting
 |  |
 | ------- |
@@ -676,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bishwa2005/placements/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bishwa2005/placements/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/bishwa2005/placements/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [4103-remove-elements-by-type-and-color](https://github.com/bishwa2005/placements/tree/master/4103-remove-elements-by-type-and-color) |
 ## Monotonic Stack
 |  |
 | ------- |
