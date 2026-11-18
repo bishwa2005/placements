@@ -510,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2506-count-pairs-of-similar-strings](https://github.com/bishwa2005/placements/tree/master/2506-count-pairs-of-similar-strings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bishwa2005/placements/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/bishwa2005/placements/tree/master/2833-furthest-point-from-origin) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/bishwa2005/placements/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/bishwa2005/placements/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/bishwa2005/placements/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3340-check-balanced-string](https://github.com/bishwa2005/placements/tree/master/3340-check-balanced-string) |
